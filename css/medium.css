@@ -1,0 +1,24 @@
+.font{
+    font-family: 'Alegreya', serif;
+    font-size: 100px;
+}
+.bg-color{
+    background-color: rgba(196,226,255,255);
+}
+.bg-border{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.line_under li{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.btn:hover{
+    background-color: rgb(188, 201, 197);
+
+}
+.hg{
+    height: 70px;
+}
+.logo-margin{
+    margin-left: 20px;
+}
